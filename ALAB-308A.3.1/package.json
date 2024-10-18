@@ -1,0 +1,12 @@
+{
+  "name": "alab-308a.3.1",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "code .",
+  "scripts": {
+    "test": "exit"
+  },
+  "author": "^C",
+  "license": "ISC",
+  "description": ""
+}
